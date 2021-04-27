@@ -13,3 +13,18 @@ if (isAwesome){
   return true
 }
 ```
+6. Beginner with programming (_**confused**_)
+![Pic](https://miro.medium.com/max/2800/1*Vqtvog3OCEoJCs1LcpKBBA.jpeg)
+7. **Education**
+
+|  Start date | End date  |  University | Faculty  | Degree | Specialisation |
+|:---:|:---:|:---:|:---:|:---:|---|
+| 2018  | 2019  | BSU  | Biological  | Master's degree  | Biology (Biochemistry/Biotechnology)
+|2016   |  2018 |  BSU |  SIMST BSU | Bachelor's degree | Interpreter (English)
+|  2013  | 2018  | BSU  |  Biological |  Bachelor's degree | Biochemistry
+8. Level - **Upper intermediate**.
+I have been using English almost everyday for more than 5 years.
+Previously it was helpful while I was working as a **Junior Reaserch fellow** at National Academy of science: reading scientific articles, guides, instructions (how to use equipment, conducting experiments).
+Then I was working as a **Support specialist**. I communicated with dental distributors, and customers by phone (from America), email and chats communication.
+As a **QA engineer** I'm creating bug reports in English, communicate with French teammates.
+_**Conclusion**_: oral and written experience.
