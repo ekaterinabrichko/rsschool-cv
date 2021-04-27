@@ -42,4 +42,4 @@ Then I was working as a **Support specialist**. I communicated with dental distr
 
 As a **QA engineer** I'm creating bug reports in English, communicate with French teammates.
 
-_**Conclusion**_: oral and written experience.
+_**Conclusion**_: good oral and written experience.
