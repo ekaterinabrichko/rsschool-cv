@@ -19,11 +19,9 @@ if (isAwesome){
 
 |  Start date | End date  |  University | Faculty  | Degree | Specialisation |
 |:---:|:---:|:---:|:---:|:---:|---|
-| 2018  | 2019  | BSU  | Biological  | Master's degree  | Biology (Biochemistry/Biotechnology)
-|2016   |  2018 |  BSU |  SIMST BSU | Bachelor's degree | Interpreter (English)
-|  2013  | 2018  | BSU  |  Biological |  Bachelor's degree | Biochemistry
-
-End of table.
+| 2018  | 2019  | BSU  | Biological  | Master's degree  | Biology (Biochemistry/Biotechnology) |
+|2016   |  2018 |  BSU |  SIMST BSU | Bachelor's degree | Interpreter (English) |
+|  2013  | 2018  | BSU  |  Biological |  Bachelor's degree | Biochemistry |
 
 8. Level: **Upper intermediate**.
 I have been using English almost everyday for more than 5 years.
