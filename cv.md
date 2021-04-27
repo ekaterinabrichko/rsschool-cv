@@ -23,6 +23,8 @@ if (isAwesome){
 |2016   |  2018 |  BSU |  SIMST BSU | Bachelor's degree | Interpreter (English)
 |  2013  | 2018  | BSU  |  Biological |  Bachelor's degree | Biochemistry
 
+End of table.
+
 8. Level: **Upper intermediate**.
 I have been using English almost everyday for more than 5 years.
 Previously it was helpful while I was working as a **Junior Reaserch fellow** at National Academy of science: reading scientific articles, guides, instructions (how to use equipment, conducting experiments).
